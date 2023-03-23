@@ -1,6 +1,6 @@
 Desafio do Stage 06 do Explore [Rocketseat]
 
-GitFav = (Aplicação utilizada para favoritar um perfil do GitHub){
+GitFav - (Aplicação utilizada para favoritar um perfil do GitHub)
 
 Principais hard skills do JavaScript desenvolvidas no projeto: 
 1 - Javascript assíncrono e promises;
@@ -9,4 +9,4 @@ Principais hard skills do JavaScript desenvolvidas no projeto:
 4 - Classes e herança;
 5 - Promessas com async await;
 6 - Fluxo da apliação com try, catch e throw.
-}
+
